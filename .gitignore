@@ -361,3 +361,28 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# 加密存储的 API Key
+secret.dat
+
+# 编译产物（标准模板未覆盖）
+*.exe
+*.dll
+
+# 其他 IDE
+.idea/
+
+# JetBrains 共享设置
+*.DotSettings
+
+# AI 辅助工具
+.codegraph/
+.reasonix/
+reasonix.toml
+
+# Windows 缩略图/桌面设置
+Thumbs.db
+Desktop.ini
+
+# 临时文件
+*.temp
